@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  margin: 30px;
+  background-color: #f3f3f3;
+}
+input {
+  width: 80px;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+}
+#status {
+  margin-top: 20px;
+  font-weight: bold;
+}
